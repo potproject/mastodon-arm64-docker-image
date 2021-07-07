@@ -1,8 +1,8 @@
 # mastodon-arm64-docker-image
 
-Generating [Mastodon](https://github.com/tootsuite/mastodon) ARM64 Docker Image fot Github Container Registry.
+Generating [Mastodon](https://github.com/tootsuite/mastodon) ARM64 Docker Image fot Github Actions.
 
-## Registry Public URL
+## GitHub Container Registry Public URL
 
 WIP
 
